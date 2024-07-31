@@ -43,8 +43,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/product-category-classification.git
-    cd product-category-classification
+    git clone https://github.com/adinarayana02/Assessment-at-payever.git
+    cd Assessment-at-payever
     ```
 
 2. Install the required packages:
