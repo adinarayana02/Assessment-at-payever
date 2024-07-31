@@ -65,9 +65,11 @@ The script will print the model's architecture, training history, and evaluation
 
 ## Results
 After training, the model achieves the following performance metrics:
-- **Training Accuracy**: ~99% screenshot - https://github.com/adinarayana02/Assessment-at-payever/blob/main/Training_model.png
-- **Validation Accuracy**: ~95%
-- **Test Accuracy**: ~90%
+- **data_frames** : https://github.com/adinarayana02/Assessment-at-payever/blob/main/data_frames.png
+- **data_preprocessing** : https://github.com/adinarayana02/Assessment-at-payever/blob/main/data_preprocessing_output.png
+- **mode_summary** : https://github.com/adinarayana02/Assessment-at-payever/blob/main/model_summary.png
+- **Training Accuracy**: https://github.com/adinarayana02/Assessment-at-payever/blob/main/Training_model.png
+- **Evalution_result** : https://github.com/adinarayana02/Assessment-at-payever/blob/main/evaluation_results.png
 
 These metrics indicate that the model is able to generalize well to unseen data.
 
